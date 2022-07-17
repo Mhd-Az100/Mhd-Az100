@@ -17,8 +17,6 @@
 
 - 💬 knowledge about Dart , Algorithm , Flutter bLoC,GetX,Provider...
 
-- 👴 I'm old .net developer working with xamarin **C# , ASP.NET MVC**
-
 - 📫 How to reach me [mohamadalazmeh4@gmail.com](mohamadalazmeh4@gmail.com)
 
 
