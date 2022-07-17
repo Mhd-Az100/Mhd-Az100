@@ -1,8 +1,8 @@
-<h1 align="left">Hi there 👋, I'm Obada</h1>
+<h1 align="left">Hi there 👋, I'm Mohammad</h1>
 <h3>I'm a Senior Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obada2020&label=Profile%20views&color=0e75b6&style=flat" alt="obada2020" /> </p>
-<center><img src="https://i.ibb.co/8r66fnC/Group-4104.png" alt="Flowers in Chania"></center>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=obada2020&label=Profile%20views&color=0e75b6&style=flat" alt="obada2020" /> </p> -->
+<center><img src="https://i.ibb.co/L8LnQ4r/dash.png"  alt="Flowers in Chania"></center>
 
 
 ## 👨🏻‍💻 &nbsp;About Me
@@ -15,13 +15,12 @@
 
 - 🎨 Hobbies: I'm design apps with UI UX 
 
-- 💬 Ask me about C++, Dart , Algorithm , Flutter bLoC,Riverpod,GetX,Provider...
+- 💬 knowledge about Dart , Algorithm , Flutter bLoC,GetX,Provider...
 
 - 👴 I'm old .net developer working with xamarin **C# , ASP.NET MVC**
 
-- 📫 How to reach me [obada.flutter@gmail.com](obada.flutter@gmail.com)
+- 📫 How to reach me [mohamadalazmeh4@gmail.com](mohamadalazmeh4@gmail.com)
 
-- 🤲 I hope to get engaged soon **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
