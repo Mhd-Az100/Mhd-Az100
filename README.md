@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Mohammad</h1>
-<h3>I'm a Senior Flutter Developer</h3>
+<h3>I'm a Flutter Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=obada2020&label=Profile%20views&color=0e75b6&style=flat" alt="obada2020" /> </p> -->
 <center><img src="https://i.ibb.co/L8LnQ4r/dash.png"  alt="Flowers in Chania"></center>
