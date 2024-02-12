@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🚀 I’m work for Warsha-Tec company 
+- 🚀 I am seeking powerful opportunities. 
 
 - 👦 I love using Software as a solution for every Problem **.**
 
@@ -14,7 +14,7 @@
 
 - 🎨 Hobbies: I'm design apps with UI UX 
 
-- 💬 knowledge about Dart , Algorithm , Flutter bLoC,GetX,Provider...
+- 💬 knowledge about Dart , Algorithm , Flutter BLoC,GetX,Provider, Real-Time, Clean Code...
 
 - 📫 How to reach me [mohamadalazmeh4@gmail.com](mohamadalazmeh4@gmail.com)
 
