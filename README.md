@@ -2,7 +2,7 @@
 <h3 align="center">💻 Flutter & iOS Developer | Problem Solver | UI/UX Enthusiast</h3>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mhd-Az100&label=Profile%20views&color=0e75b6&style=flat" alt="jamal-and" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mhd-Az100&label=Profile%20views&color=0e75b6&style=flat" alt="Mhd-Az100" /> </p>
 
 ## 🙋‍♂️ About Me
 
