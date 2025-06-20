@@ -1,19 +1,19 @@
-<h1 align="left">Hi 👋, I'm Mohammad Al-Azmeh</h1>
-<h3 align="left">🏗️ Passionate Flutter Developer | Problem Solver | UI/UX Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Al-Azmeh</h1>
+<h3 align="center">💻 Flutter & iOS Developer | Problem Solver | UI/UX Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-- 🚀 I'm a **Flutter Developer** with a deep passion for building fast, clean, and beautiful cross-platform applications.
-- 🧠 I believe **software is the solution to almost every problem**, and I'm always excited to turn ideas into scalable products.
-- 📚 Continuously learning and exploring new technologies to grow as a mobile engineer.
-- 🎨 I enjoy designing smooth and user-friendly interfaces using **UI/UX principles** and tools like Figma.
-- 💡 Currently focusing on real-time applications, performance optimization, and clean architecture.
+- 🚀 I'm a passionate **Flutter & iOS Developer** building elegant and scalable cross-platform applications.
+- 💡 I believe that **software can solve real-world problems**, and I love turning ideas into functional, beautiful products.
+- 🎨 I'm also a **UI/UX design enthusiast**, often working with Figma and Framer to create engaging interfaces.
+- 📚 Continuously learning — from state management to native iOS (Swift & UIKit) — to grow as a well-rounded mobile engineer.
+- 🔍 Currently focused on: real-time apps, clean architecture, and performance optimization.
 
 ---
 
-## 🧰 Languages and Tools I Use
+## 🚀 Tech Stack & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -22,44 +22,59 @@
 
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  
-  <!-- State Management -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="BLoC (Redux-like)" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/51670941?s=200&v=4" alt="Riverpod" width="40" height="40"/>
 
-  <!-- iOS & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
+  <!-- iOS Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
 
-  <!-- Firebase & Backend -->
+  <!-- State Management -->
+  <img src="https://avatars.githubusercontent.com/u/51670941?s=200&v=4" alt="Riverpod" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="BLoC (Redux style)" width="40" height="40"/>
+
+  <!-- Backend & DB -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 
   <!-- UI Design -->
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="Framer" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/framer/logos/main/logos/framer/icon.svg" alt="Framer" width="40" height="40"/>
 
-  <!-- Development Tools -->
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
 
-## 🧠 What I Know
+## 🧠 What I Work With
 
-- 💬 Languages: **Dart**, **JavaScript (basic)**
-- ⚙️ Frameworks & State Management: **Flutter**, **BLoC**, **Riverpod**, **GetX**, **Provider**
-- 🔧 Tools: **Firebase**, **Git**, **Figma**, **Framer**, **SQLite**
-- 🧱 Concepts: **Clean Architecture**, **MVVM**, **Real-Time Apps**, **Responsive UI**, **Animations**
-- 📈 Working on: **Performance optimization** and **code scalability**
+- ✨ **Languages:** Dart, Swift, a bit of JavaScript  
+- 🧩 **Frameworks:** Flutter, UIKit, SwiftUI  
+- ⚙️ **State Management:** Riverpod, BLoC, GetX, Provider  
+- 📡 **Realtime & Backend:** Firebase (Auth, Firestore, Realtime DB), SQLite  
+- 🎨 **UI Tools:** Figma, Framer  
+- 🧱 **Architecture:** Clean Architecture, MVVM, Modular Design  
+- 🧰 **Dev Tools:** Git, VS Code, Xcode
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact Me
 
-📧 [mohamadalazmeh4@gmail.com](mailto:mohamadalazmeh4@gmail.com)
+- 📩 Email: [mohamadalazmeh4@gmail.com](mailto:mohamadalazmeh4@gmail.com)
+- 💼 Portfolio: [https://mohammad-portfolio.web.app](https://mohammad-portfolio.web.app)
+- 🌍 LinkedIn: *(add your profile if available)*
 
-🔗 Let's connect and build something great together!
+---
+
+## 📌 Currently Working On
+
+- 📱 Real-time live sports apps with deep UI customization  
+- 🧪 Improving performance and testing coverage in Flutter apps  
+- 🍎 Native iOS projects using UIKit and Swift  
+- 🚀 Personal tools to boost productivity and creativity
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
